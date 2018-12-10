@@ -1,0 +1,5 @@
+const RECEIVE_LINKS = "RECEIVE_LINKS"
+
+export {
+  RECEIVE_LINKS
+}
